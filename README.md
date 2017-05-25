@@ -10,3 +10,7 @@ Note: All the source codes are built in python and do not use any pre-existing m
 
 Below are some of the alogithm implementations covered in this repository:
 
+1. Audio Source Separation
+2. Image Denoising
+3. Voice Filtering
+4. Image Depth analysis
